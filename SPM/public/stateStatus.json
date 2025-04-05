@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Gezira",
+          "status": "peaceful",
+          "services": {
+            "electricity": "available",
+            "hospitals": "operational",
+            "water": "available",
+            "network": "available"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.5, 14.85]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Blue Nile",
+          "status": "conflict",
+          "services": {
+            "electricity": "partial",
+            "hospitals": "limited",
+            "water": "scarce",
+            "network": "unstable"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.0, 11.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Central Darfur",
+          "status": "conflict",
+          "services": {
+            "electricity": "down",
+            "hospitals": "non-operational",
+            "water": "scarce",
+            "network": "down"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [24.0, 12.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "East Darfur",
+          "status": "conflict",
+          "services": {
+            "electricity": "down",
+            "hospitals": "limited",
+            "water": "scarce",
+            "network": "unstable"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [26.5, 11.5]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Gedaref",
+          "status": "peaceful",
+          "services": {
+            "electricity": "available",
+            "hospitals": "operational",
+            "water": "available",
+            "network": "available"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.0, 14.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Kassala",
+          "status": "peaceful",
+          "services": {
+            "electricity": "available",
+            "hospitals": "operational",
+            "water": "available",
+            "network": "available"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [36.4, 15.5]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Khartoum",
+          "status": "peaceful",
+          "services": {
+            "electricity": "down",
+            "hospitals": "non-operational",
+            "water": "scarce",
+            "network": "down"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.5, 15.6]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "North Darfur",
+          "status": "conflict",
+          "services": {
+            "electricity": "partial",
+            "hospitals": "limited",
+            "water": "scarce",
+            "network": "unstable"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.0, 15.5]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "North Kordofan",
+          "status": "peaceful",
+          "services": {
+            "electricity": "available",
+            "hospitals": "operational",
+            "water": "available",
+            "network": "available"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.0, 14.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Northern",
+          "status": "peaceful",
+          "services": {
+            "electricity": "available",
+            "hospitals": "operational",
+            "water": "available",
+            "network": "available"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.5, 18.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "state": "Red Sea",
+          "status": "peaceful",
+          "services": {
+            "electricity": "available",
+            "hospitals": "operational",
+            "water": "available",
+            "network": "available"
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.0, 19.0]
+        }
+      }
+    ]
+  }
+  
